@@ -37,5 +37,31 @@ export default [
         },
         location: "Norway",
         openSpots: 3,
+    },
+    {
+        id: 4,
+        title: "Beachside Relaxation",
+        description: "Getaway with a beautiful break from everything in HAWAII",
+        price: 70,
+        coverImg: "beach.jpg",
+        stats: {
+            rating: 4.9,
+            reviewCount: 23
+        },
+        location: "Hawaii",
+        openSpots: 2,
+    },
+    {
+        id: 5,
+        title: "South American Exotic Experience",
+        description: "Entangle yourself in an adventure full of life, wonders and excitement!",
+        price: 30,
+        coverImg: "jungle.jpg",
+        stats: {
+            rating: 5.0,
+            reviewCount: 101
+        },
+        location: "Bolivia",
+        openSpots: 70,
     }
 ]
